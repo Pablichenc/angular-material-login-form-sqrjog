@@ -64,7 +64,6 @@ import { FormGroup, FormControl } from '@angular/forms';
       }
     `,
   ],
-
 })
 export class LoginFormComponent {
   form: FormGroup = new FormGroup({
